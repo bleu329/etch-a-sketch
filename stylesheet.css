@@ -1,0 +1,47 @@
+div {
+  width: 25px;
+  height: 25px;
+  float:left;
+  display: block;
+}
+
+p {
+  color: green;
+  background-color: orange;
+}
+
+button {
+  height:25px;
+}
+
+.black {
+  background-color: black;
+}
+
+.gray {
+  background-color: gray;
+}
+
+table {
+  margin:25px 0px;
+}
+
+#black {
+  background-color:black;
+}
+
+#red {
+  background-color:red;
+}
+
+#green {
+  background-color:green;
+}
+
+#yellow {
+  background-color:yellow;
+}
+
+#blue {
+  background-color:blue;
+}
